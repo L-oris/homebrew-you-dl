@@ -3,9 +3,9 @@
 class YouDl < Formula
     desc "A tiny and easy to use YouTube downloader"
     homepage "https://github.com/l-oris/you-dl"
-    url "https://github.com/l-oris/you-dl/releases/download/v0.2.0/you-dl-mac.tar.gz"
-    sha256 "0768aab1239006df9ee49cb824baa67bcfb4b6a0e1341a0cc9698ada491c40c3"
-    version "0.2.0"
+    url "https://github.com/l-oris/you-dl/releases/download/v0.3.0/you-dl-mac.tar.gz"
+    sha256 "b65de8eaffade213793b863c8965a506a78aed25018c39ffdfc3bc4c6ac3cf46"
+    version "0.3.0"
   
     def install
       bin.install "you-dl"
